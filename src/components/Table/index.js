@@ -1,6 +1,6 @@
-import {initialData} from "../../data/squads";
+import initialData from "../../data/squads";
 import {User} from "../User";
-import {playersTable} from "../../data/players";
+import playersTable from "../../data/players";
 import './index.css';
 
 const getPoints = (data, playerName) => {
@@ -18,7 +18,7 @@ const getPoints = (data, playerName) => {
 
 const createSquad = (initialSquad, data) => initialSquad.map((player) => ({
   ...player,
-  points: getPoints(data, playersTable[player.name].name) - player.gap,
+  points: getPoints(data, playersTable[player.name].name) - player.toursPoints.reduce((a, b) => a + b, 0) - player.gap,
 }));
 
 export const Table = ({ players }) => {

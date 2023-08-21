@@ -1,4 +1,4 @@
-export const playersTable = {
+{
   "Ter Stegen": {
     "name": "тер Стеген"
   },

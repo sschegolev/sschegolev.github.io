@@ -1,130 +1,148 @@
-export const initialData = {
+{
   "Макс": [
     {
       "name": "Ter Stegen",
       "team": "BAR",
       "country": "SPA",
       "position": 1,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Onana",
       "team": "MUN",
       "country": "ENG",
       "position": 1,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "TAA",
       "team": "LIV",
       "country": "ENG",
       "position": 2,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Bensebaini",
       "team": "BOR",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Danilo",
       "team": "JUV",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "White",
       "team": "ARS",
       "country": "ENG",
       "position": 2,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Carlos Augusto",
       "team": "INT",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Burn",
       "team": "NEW",
       "country": "ENG",
       "position": 2,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Kvaratskhelia",
       "team": "NAP",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Leao",
       "team": "MIL",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Valverde",
       "team": "RMA",
       "country": "SPA",
       "position": 3,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     },
     {
       "name": "Müller",
       "team": "BAY",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Grifo",
       "team": "FRA",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Zaccagni",
       "team": "LAZ",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Halland",
       "team": "MCI",
       "country": "ENG",
       "position": 4,
-      "gap": 10
+      "gap": 10,
+      "toursPoints": []
     },
     {
       "name": "Depay",
       "team": "ATL",
       "country": "SPA",
       "position": 4,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Openda",
       "team": "RBL",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Borja",
       "team": "BET",
       "country": "SPA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     }
   ],
   "Андрей": [
@@ -133,126 +151,144 @@ export const initialData = {
       "team": "NEW",
       "country": "ENG",
       "position": 1,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Meret",
       "team": "NAP",
       "country": "ITA",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Davies",
       "team": "BAY",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Chilwell",
       "team": "CHE",
       "country": "ENG",
       "position": 2,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Dumfries",
       "team": "INT",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Rüdiger",
       "team": "RMA",
       "country": "SPA",
       "position": 2,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Tomori",
       "team": "MIL",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Alex Sandro",
       "team": "JUV",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Saka",
       "team": "ARS",
       "country": "ENG",
       "position": 3,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Bruno",
       "team": "MUN",
       "country": "ENG",
       "position": 3,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     },
     {
       "name": "Simons",
       "team": "RBL",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Adeyemi",
       "team": "BOR",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Mitoma",
       "team": "BRI",
       "country": "ENG",
       "position": 3,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Isco",
       "team": "BET",
       "country": "SPA",
       "position": 3,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Lewandowski",
       "team": "BAR",
       "country": "SPA",
       "position": 4,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Richarlison",
       "team": "TOT",
       "country": "ENG",
       "position": 4,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Darwin",
       "team": "LIV",
       "country": "ENG",
       "position": 4,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Solanke",
       "team": "BOU",
       "country": "ENG",
       "position": 4,
-      "gap": 7
+      "gap": 7,
+      "toursPoints": []
     }
   ],
   "Ксана": [
@@ -261,126 +297,144 @@ export const initialData = {
       "team": "ATM",
       "country": "SPA",
       "position": 1,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Providel",
       "team": "LAZ",
       "country": "ITA",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Frimpong",
       "team": "LEV",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Theo",
       "team": "MIL",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Alaba",
       "team": "RMA",
       "country": "SPA",
       "position": 2,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Kounde",
       "team": "BAR",
       "country": "SPA",
       "position": 2,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Bremer",
       "team": "JUV",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Robertson",
       "team": "LIV",
       "country": "ENG",
       "position": 2,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Ødegaard",
       "team": "ARS",
       "country": "ENG",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Olmo",
       "team": "RBL",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Brandt",
       "team": "BOR",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Barella",
       "team": "INT",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Bowen",
       "team": "WHU",
       "country": "ENG",
       "position": 3,
-      "gap": 7
+      "gap": 7,
+      "toursPoints": []
     },
     {
       "name": "Černý",
       "team": "WOF",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Osimhen",
       "team": "NAP",
       "country": "ITA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Alvarez",
       "team": "MCI",
       "country": "ENG",
       "position": 4,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "En-Nesyri",
       "team": "SEV",
       "country": "SPA",
       "position": 4,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Ducksch",
       "team": "WER",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     }
   ],
   "Русланчик": [
@@ -389,254 +443,290 @@ export const initialData = {
       "team": "RSO",
       "country": "SPA",
       "position": 1,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Kobel",
       "team": "BOR",
       "country": "GER",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Gvardiol",
       "team": "MCI",
       "country": "ENG",
       "position": 2,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Trippier",
       "team": "NEW",
       "country": "ENG",
       "position": 2,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Saliba",
       "team": "ARS",
       "country": "ENG",
       "position": 2,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Spinazzola",
       "team": "ROM",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Zappacosta",
       "team": "ATA",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Ginter",
       "team": "FRE",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Vinicius",
       "team": "RMA",
       "country": "SPA",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Szoboszlai",
       "team": "LIV",
       "country": "ENG",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Viega",
       "team": "CEL",
       "country": "SPA",
       "position": 3,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Rabiot",
       "team": "JUV",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Tsygankov",
       "team": "GIR",
       "country": "SPA",
       "position": 3,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Pedri",
       "team": "BAR",
       "country": "SPA",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "L. Martinez",
       "team": "INT",
       "country": "ITA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Gnabry",
       "team": "BAY",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Füllkrug",
       "team": "WER",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Morata",
       "team": "ATL",
       "country": "SPA",
       "position": 4,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     }
   ],
   "Саша": [
     {
       "name": "Kepa",
       "team": "RMA",
-      "country": 'SPA',
+      "country": "SPA",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Ederson",
       "team": "MCI",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 1,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Di Lorenzo",
       "team": "NAP",
-      "country": 'ITA',
+      "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Araujo",
       "team": "BAR",
-      "country": 'SPA',
+      "country": "SPA",
       "position": 2,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "De Marcos",
       "team": "ABL",
-      "country": 'SPA',
+      "country": "SPA",
       "position": 2,
-      "gap": 1
+      "gap": 1,
+      "toursPoints": []
     },
     {
       "name": "Estupinan",
       "team": "BHA",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 2,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     },
     {
       "name": "Henrichs",
       "team": "RBL",
-      "country": 'GER',
+      "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Disasi",
       "team": "CHE",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 2,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Salah",
       "team": "LIV",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 3,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Hofmann",
       "team": "LEV",
-      "country": 'GER',
+      "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Malen",
       "team": "BOR",
-      "country": 'GER',
+      "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Sane",
       "team": "BAY",
-      "country": 'GER',
+      "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Diaby",
       "team": "AVL",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 3,
-      "gap": 7
+      "gap": 7,
+      "toursPoints": []
     },
     {
       "name": "Pulisic",
       "team": "MIL",
-      "country": 'ITA',
+      "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Griezmann",
       "team": "ATM",
-      "country": 'SPA',
+      "country": "SPA",
       "position": 4,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Isak",
       "team": "NEW",
-      "country": 'ENG',
+      "country": "ENG",
       "position": 4,
-      "gap": 10
+      "gap": 10,
+      "toursPoints": []
     },
     {
       "name": "Thuram",
       "team": "INT",
-      "country": 'ITA',
+      "country": "ITA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Vlahovic",
       "team": "JUV",
-      "country": 'ITA',
+      "country": "ITA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     }
   ],
   "Серега": [
@@ -645,126 +735,144 @@ export const initialData = {
       "team": "INT",
       "country": "ITA",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Soria",
       "team": "GET",
       "country": "SPA",
       "position": 1,
-      "gap": 7
+      "gap": 7,
+      "toursPoints": []
     },
     {
       "name": "Balde",
       "team": "BAR",
       "country": "SPA",
       "position": 2,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Baku",
       "team": "WOF",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Leite",
       "team": "UNB",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Gjimshiti",
       "team": "ATA",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Cancelo",
       "team": "MCI",
       "country": "ENG",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Schär",
       "team": "NEW",
       "country": "ENG",
       "position": 2,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     },
     {
       "name": "Bellingham",
       "team": "RMA",
       "country": "SPA",
       "position": 3,
-      "gap": 9
+      "gap": 9,
+      "toursPoints": []
     },
     {
       "name": "Musiala",
       "team": "BAY",
       "country": "GER",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Rashford",
       "team": "MUN",
       "country": "ENG",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Dybala",
       "team": "ROM",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Maddison",
       "team": "TOT",
       "country": "ENG",
       "position": 3,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Luis Diaz",
       "team": "LIV",
       "country": "ENG",
       "position": 3,
-      "gap": 7
+      "gap": 7,
+      "toursPoints": []
     },
     {
       "name": "Immobile",
       "team": "LAZ",
       "country": "ITA",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Joao Pedro",
       "team": "BRI",
       "country": "ENG",
       "position": 4,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Werner",
       "team": "RBL",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Kramaric",
       "team": "HOF",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     }
   ],
   "Темафей": [
@@ -773,126 +881,144 @@ export const initialData = {
       "team": "MIL",
       "country": "ITA",
       "position": 1,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Alison",
       "team": "LIV",
       "country": "ENG",
       "position": 1,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Dimarco",
       "team": "INT",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Grimaldo",
       "team": "LEV",
       "country": "GER",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Botman",
       "team": "NEW",
       "country": "ENG",
       "position": 2,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     },
     {
       "name": "Molina",
       "team": "ATM",
       "country": "SPA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Romagnoli",
       "team": "LAZ",
       "country": "ITA",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Porro",
       "team": "TOT",
       "country": "ENG",
       "position": 2,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Rodrigo",
       "team": "RMA",
       "country": "SPA",
       "position": 3,
-      "gap": 8
+      "gap": 8,
+      "toursPoints": []
     },
     {
       "name": "Martinelli",
       "team": "ARS",
       "country": "ENG",
       "position": 3,
-      "gap": 5
+      "gap": 5,
+      "toursPoints": []
     },
     {
       "name": "Berardi",
       "team": "SOS",
       "country": "ITA",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Gündoğan",
       "team": "BAR",
       "country": "SPA",
       "position": 3,
-      "gap": 3
+      "gap": 3,
+      "toursPoints": []
     },
     {
       "name": "Phil Phoden",
       "team": "MCI",
       "country": "ENG",
       "position": 3,
-      "gap": 4
+      "gap": 4,
+      "toursPoints": []
     },
     {
       "name": "Becker",
       "team": "GER",
       "country": "UNB",
       "position": 3,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Kane",
       "team": "BAY",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Haller",
       "team": "BOR",
       "country": "GER",
       "position": 4,
-      "gap": 0
+      "gap": 0,
+      "toursPoints": []
     },
     {
       "name": "Watkins",
       "team": "AVL",
       "country": "ENG",
       "position": 4,
-      "gap": 6
+      "gap": 6,
+      "toursPoints": []
     },
     {
       "name": "Jackson",
       "team": "CHE",
       "country": "ENG",
       "position": 4,
-      "gap": 2
+      "gap": 2,
+      "toursPoints": []
     }
   ]
 }
